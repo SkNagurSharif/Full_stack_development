@@ -1,4 +1,4 @@
-import Me from "./me.jsx"
+import Me from "./Me.jsx"
 
 function App() {
 
