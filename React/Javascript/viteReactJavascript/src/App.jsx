@@ -1,9 +1,14 @@
 import Me from "./Me.jsx"
 
 function App() {
+  const userName = 'Nagur sharif'
 
   return (
-    <Me />
+    <>
+        <Me />
+        <h3>{userName}</h3>
+    </>
+
   )
 }
 
